@@ -1,5 +1,5 @@
 # Spring-Boot-Spring-cloud-example
-## Microservices with Spring Boot and Spring Cloud
+## OAuth2, Microservices with Spring Boot, Spring Cloud, mongodb and docker
 
 In this example we are demonstarte OAuth2 with Spring Boot and Spring Cloud with MongoDB.
 here we have used
